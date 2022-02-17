@@ -8,7 +8,11 @@ const options = {
         {
             name:'Revenue',
             data:[1200000, 650000, 700000, 450000, 30000, 25000]
-        }
+        },
+        {
+            name:'loss',
+            data:[25000,15000,30000,5000,12000,12500]
+        },
     ],
     xaxis:{
         categories:['Jan','Feb','Mar','Apr','May','Jun']
